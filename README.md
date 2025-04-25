@@ -19,19 +19,6 @@ This script allows you to fetch public details of any Instagram account, includi
 
 ---
 
-## 📚 library.py
-
-**Description:**  
-A simple library management system that supports:
-
-- Adding new books  
-- Removing books  
-- Issuing books to users  
-
-> 🎓 *Great for beginner-level practice on object-oriented programming and file handling.*
-
----
-
 ## 🔐 pswrd.py
 
 **Description:**  
@@ -56,7 +43,6 @@ This script retrieves all saved Wi-Fi connection names and their associated pass
 
 ```bash
 python insta.py     # To get Instagram details
-python library.py   # To use the Library management system
 python pswrd.py     # To see saved Wi-Fi passwords
 ```
 
